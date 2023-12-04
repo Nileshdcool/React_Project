@@ -1,0 +1,12 @@
+.App {
+  text-align: center;
+  background-color: $lightGrey;
+  height: 100%;
+}
+
+.lines-container {
+  background-color: $lightGrey !important;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}

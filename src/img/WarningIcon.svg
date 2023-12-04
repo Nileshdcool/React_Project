@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="41.351" height="36.805" viewBox="0 0 41.351 36.805">
+    <defs>
+        <style>
+            .prefix__cls-2{fill:#fff}
+        </style>
+    </defs>
+    <g id="prefix__WarningIcon" transform="translate(.536 .5)">
+        <path id="prefix__Path_3" d="M39.827 30.77a3.359 3.359 0 0 1-2.908 5.035H3.36A3.359 3.359 0 0 1 .452 30.77l16.78-29.092a3.358 3.358 0 0 1 5.816 0z" data-name="Path 3" style="fill:#ff6700;stroke:#fff"/>
+        <circle id="prefix__Ellipse_1" cx="3" cy="3" r="3" class="prefix__cls-2" data-name="Ellipse 1" transform="translate(17.53 24.805)"/>
+        <path id="prefix__Path_4" d="M244.813 186.4a.839.839 0 0 0 .839.794h3.394a.839.839 0 0 0 .839-.794l.518-9.511a.839.839 0 0 0-.839-.885h-4.432a.839.839 0 0 0-.839.885z" class="prefix__cls-2" data-name="Path 4" transform="translate(-227.209 -163.692)"/>
+    </g>
+</svg>

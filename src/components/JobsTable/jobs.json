@@ -1,0 +1,54 @@
+{
+  "new": [
+    {
+      "so": "1",
+      "wo": "1",
+      "description": "1",
+      "revision": "1",
+      "scheduledUnits": "1",
+      "completedUnits": "1",
+      "plannedStartDate": "1",
+      "plannedCompletionDate": "1",
+      "status": "1"
+    }
+  ],
+  "created": [
+    {
+      "so": "2",
+      "wo": "2",
+      "description": "2",
+      "revision": "2",
+      "scheduledUnits": "2",
+      "completedUnits": "2",
+      "plannedStartDate": "2",
+      "plannedCompletionDate": "2",
+      "status": "2"
+    }
+  ],
+  "staged": [
+    {
+      "so": "3",
+      "wo": "3",
+      "description": "3",
+      "revision": "3",
+      "scheduledUnits": "3",
+      "completedUnits": "3",
+      "plannedStartDate": "3",
+      "plannedCompletionDate": "3",
+      "status": "3"
+    }
+  ],
+  "active": [
+    {
+      "so": "4",
+      "wo": "4",
+      "description": "4",
+      "revision": "4",
+      "scheduledUnits": "4",
+      "completedUnits": "4",
+      "plannedStartDate": "4",
+      "plannedCompletionDate": "4",
+      "status": "4"
+    }
+  ]
+}
