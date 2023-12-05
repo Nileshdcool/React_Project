@@ -31,6 +31,7 @@ const getHeaders = (token, isFormData) => {
 const getBody = body => JSON.stringify(body);
 
 const getFetchAction = (baseUrl, endpoint, method, body, token) => {
+  console.log('process', process.env);
   const isFormDataType = body instanceof FormData;
   const reqHeaders = getHeaders(token);
 

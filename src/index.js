@@ -11,7 +11,7 @@ import 'typeface-roboto';
 
 import './index.scss';
 
-import { ThemeProvider, createMuiTheme } from '@material-ui/core/styles';
+import { ThemeProvider, createTheme  } from '@material-ui/core/styles';
 import { applyMiddleware, createStore } from 'redux';
 
 import { Provider } from 'react-redux';
@@ -42,7 +42,7 @@ const store = createStore(rootReducer, middleware);
 moment.locale('en');
 const persistor = persistStore(store);
 
-export const mainTheme = createMuiTheme({
+export const mainTheme = createTheme({
   palette: {
     primary: {
       main: '#07639c',
